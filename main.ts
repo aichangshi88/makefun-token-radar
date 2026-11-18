@@ -1,4 +1,5 @@
 // Token Radar, model radar-2 (Node 22, standard library only).
+// Rebuilt 2026-11-18 in the submission side chat; model radar-2 unchanged.
 //
 // The program reads the sealed snapshot from /input/snapshot.json (or --input <file|dir>), scores
 // every rankable pre-token protocol with the model in lib/model.ts, writes the ranked board to

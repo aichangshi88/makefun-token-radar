@@ -8,6 +8,8 @@ Token Radar (model radar-2): a dashboard that ranks pre-token protocols by impli
 how to farm each one. It reads a sealed DefiLlama protocol snapshot, scores every rankable pre-token
 protocol, and renders a sortable, filterable board with a detail view per protocol.
 
+Rebuilt 2026-11-18 in the submission side chat; model radar-2 unchanged.
+
 ## How the model works
 
 Implied value is calibrated from the snapshot itself. Each category's multiple is the median

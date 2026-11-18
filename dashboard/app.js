@@ -1,4 +1,5 @@
-// Token Radar's plain dashboard, model radar-2. It reads window.RADAR (written beside dashboard/ by
+// Token Radar's plain dashboard, model radar-2. Rebuilt 2026-11-18 in the submission side chat.
+// It reads window.RADAR (written beside dashboard/ by
 // main.ts) and renders the ranked board, a filterable table, a per-protocol detail dialog with the
 // model's own inputs and the protocol's farm plan. No network: every byte it shows is in data.js.
 //

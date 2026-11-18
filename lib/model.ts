@@ -1,4 +1,5 @@
 // Token Radar, model radar-2: one snapshot of the protocol universe in, one ranked board out.
+// Rebuilt 2026-11-18 in the submission side chat; model radar-2 unchanged.
 //
 // The board ranks every rankable pre-token protocol in the snapshot: the 40 on the watchlist (the
 // floor, never a ceiling) plus every other pre-token protocol below the floor that is not an exchange
